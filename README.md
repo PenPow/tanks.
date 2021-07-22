@@ -1,5 +1,5 @@
 # tanks.
-a game based on this video: https://youtu.be/aOYbR-Q_4Hs
+a game based on this video: https://youtu.be/aOYbR-Q_4Hs.
 
 # gameplay.
 
