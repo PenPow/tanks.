@@ -1,0 +1,24 @@
+#grid {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 2px;
+    background-color: rgb(185, 184, 195);
+    padding: 2px;
+}
+
+#grid > div {
+    background-color: white;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#grid > div:hover {
+    background-color: rgb(229, 228, 238);
+    transition: 0.2s;
+}
